@@ -1,4 +1,4 @@
-🎥 PeerTalk — Real-Time Video Conferencing Web App
+**🎥 PeerTalk — Real-Time Video Conferencing Web App **
 
 PeerTalk is a real-time video conferencing web application built using WebRTC, Socket.IO, and React.
 It supports peer-to-peer video calls, audio, screen sharing, and real-time chat using room-based connections.
