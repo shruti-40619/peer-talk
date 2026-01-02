@@ -71,6 +71,11 @@ peer-talk/
 
 ---
 
+## Screenshot
+
+<img width="956" height="430" alt="image" src="https://github.com/user-attachments/assets/30aceb28-67d6-4df8-867d-ff6e33e96d01" />
+
+
 ## 🛠️ Local Setup
 
 ### 1️⃣ Clone the repository
